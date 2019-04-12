@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Question1</string>
+    <string name="centimeters">(centimeters)</string>
+    <string name="bmi_unit">(kg/m<sup><small>2</small></sup>)</string>
+    <string name="enter_your_height">Enter your height:</string>
+    <string name="enter_your_weight">Enter your weight:</string>
+    <string name="kilograms">(kilograms)</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="your_bmi">Your BMI</string>
+</resources>
